@@ -1,0 +1,25 @@
+delta_set,epsilon,mechanism,mean_error,median_error,p90_error
+notebook (6 cells),0.5,PIM,8.08,6.7535,15.7677
+notebook (6 cells),0.5,Laplace,9.7445,8.1013,18.9882
+notebook (6 cells),1.0,PIM,4.0603,3.4166,7.864
+notebook (6 cells),1.0,Laplace,4.9016,4.0844,9.5871
+notebook (6 cells),2.0,PIM,2.0438,1.7183,3.973
+notebook (6 cells),2.0,Laplace,2.4197,2.0261,4.7537
+3x3 grid,0.5,PIM,9.1789,7.5673,18.0293
+3x3 grid,0.5,Laplace,12.94,10.7189,25.5325
+3x3 grid,1.0,PIM,4.5703,3.7844,8.9939
+3x3 grid,1.0,Laplace,6.4777,5.4027,12.6714
+3x3 grid,2.0,PIM,2.312,1.9313,4.5125
+3x3 grid,2.0,Laplace,3.2427,2.7153,6.3506
+road (10 cells),0.5,PIM,24.6307,18.8212,53.7506
+road (10 cells),0.5,Laplace,35.2791,28.9436,69.3098
+road (10 cells),1.0,PIM,12.3605,9.3373,27.0823
+road (10 cells),1.0,Laplace,17.6435,14.6491,34.7308
+road (10 cells),2.0,PIM,6.2054,4.7321,13.6287
+road (10 cells),2.0,Laplace,8.8437,7.3726,17.3017
+diagonal (8 cells),0.5,PIM,25.8474,19.5384,56.3924
+diagonal (8 cells),0.5,Laplace,46.9625,39.1375,91.0617
+diagonal (8 cells),1.0,PIM,13.0289,9.9476,28.2752
+diagonal (8 cells),1.0,Laplace,23.6119,19.6622,46.0771
+diagonal (8 cells),2.0,PIM,6.4559,4.8797,14.1353
+diagonal (8 cells),2.0,Laplace,11.7127,9.7386,22.9202
